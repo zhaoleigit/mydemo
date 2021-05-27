@@ -2,3 +2,4 @@ this is text1.txt
 hello
 abc
 ABC D
+add xixi hi
